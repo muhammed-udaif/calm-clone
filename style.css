@@ -4,15 +4,15 @@
 }
 @font-face {
     font-family: 'font-1';
-    src: url(./font/AvenirNext-Regular.woff2) format(woff2);
+    src: url(./AvenirNext-Regular.woff2) format(woff2);
 }
 @font-face {
     font-family: 'font-2';
-    src: url(./font/AvenirNext-Medium.woff2) format(woff2);
+    src: url(./AvenirNext-Medium.woff2) format(woff2);
 }
 @font-face {
     font-family: 'font-3';
-    src: url(./font/AvenirNext-Demi.woff2)  format(woff2);
+    src: url(./AvenirNext-Demi.woff2)  format(woff2);
 }
 body{
     font-family: 'font-1';
